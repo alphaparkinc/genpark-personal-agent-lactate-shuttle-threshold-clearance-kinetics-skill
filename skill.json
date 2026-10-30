@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-lactate-shuttle-threshold-clearance-kinetics-skill",
+  "version": "1.0.0",
+  "title": "Lactate Shuttle Threshold & Mitochondrial Clearance Kinetics Skill",
+  "category": "Personal Agent (Bio / Metabolic Conditioning)",
+  "description": "Models lactate shuttle dynamics, detects aerobic threshold (LT1) and anaerobic threshold (LT2/OBLA), and computes MCT1/MCT4 clearance rate constant for metabolic conditioning.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "analyze_lactate_shuttle_kinetics"
+  ],
+  "dependencies": []
+}
